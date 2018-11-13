@@ -12,7 +12,6 @@
     "type": "git",
     "url": "git@github.com:KiraBurova/datepicker.git"
   },
-  "homepage": "https://github.com/KiraBurova/datepicker",
   "author": "Kira Burova",
   "license": "ISC",
   "devDependencies": {
