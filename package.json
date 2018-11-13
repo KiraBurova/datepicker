@@ -1,12 +1,11 @@
 {
-  "name": "coincap",
+  "name": "datepicker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
     "deploy": "node ./node_modules/vue-gh-pages/index.js",
-    "lint": "eslint --ignore-path webpack.config.js .",
     "build": "cross-env NODE_ENV=production webpack"
   },
   "repository": {

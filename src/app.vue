@@ -83,13 +83,13 @@ body {
   padding: 0;
   font-family: "Open Sans", sans-serif;
 }
-.vdp-datepicker > div {
+.vdp-datepicker {
   padding-top: 100px;
   width: 400px;
   margin: 0 auto;
 }
-.datepicker__calendar {
-  left: 259px;
+.vdp-datepicker > div {
+  width: 400px;
 }
 .datepicker__input {
   display: inline-block;
@@ -98,6 +98,7 @@ body {
   border: 1px solid #eee;
   text-transform: uppercase;
   text-align: center;
+  cursor: pointer;
 }
 .vdp-datepicker__calendar .cell.highlighted {
   background: PaleGreen;
