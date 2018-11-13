@@ -1,4 +1,4 @@
-# datapicker
+# Datepicker
 
 - npm install
 - npm start
